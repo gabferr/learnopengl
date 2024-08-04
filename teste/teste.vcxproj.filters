@@ -21,5 +21,8 @@
     <ClCompile Include="..\..\..\..\Desktop\Projetos\glfw-3.4\src\glad.c">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
+    <ClCompile Include="stb_image_implementation.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
